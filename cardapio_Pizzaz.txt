@@ -1,0 +1,81 @@
+PIZZAS
+
+SALGADAS
+
+FRANGO CATUPITY
+Molho, mussarela, frango, catupiry e oregano
+
+CALABRESA
+Molho, mussarela, Calabresa e oregano
+
+BACON
+Molho, mussarela, bacon, catupiry e oregano
+
+MUSSARELA
+Molho, mussarela e oregano
+
+ALHO E ÓLEO
+Molho, mussarela, alho, azeite de oliva e oregano
+
+MARGUERITA
+Molho, mussarela, tomate, majericão e oregano
+
+BRÓCOLIS
+Molho, mussarela, brócolis, catupiry e oregano
+
+TOMATE SECO COM RUCULA
+Molho, mussarela, tomate seco e oregano
+
+CORAÇÃO
+Molho, mussarela, coração, catupiry e oregano
+
+STROGONOFF DE CARNE 
+Molho, mussarela, strogonoff, batata palha e oregano
+
+
+FRANGO, BACON E MILHO
+Molho, mussarela, frango, bacon, milho, catupiry e oregano
+
+ISCAS DE CARNE AO ALHO E ÓLEO
+Molho, mussarela, carne, alho e  óleo, catupiry e oregano
+
+PALMITO
+Molho, mussarela, palmito e oregano
+
+
+MILHO E BACON
+Molho, mussarela, bacon, milho, catupiry e oregano
+
+PORTUGUESA
+Molho, mussarela, presunto, ovo, cebola, azeitona, tomate, pimeentão e oregano
+
+CEBOLINHA NA MANTEIGA 
+Molho, mussarela, cebola, manteiga e oregano
+
+ATUM
+Molho, mussarela, atum, cebola e oregano
+
+LOMBO
+Molho, mussarela, lombo, catupiry e oregano
+
+PEPPERONI
+Molho, mussarela, pepperoni e oregano
+
+BACON E CALABRESA
+Molho, mussarela, bacon, calabresa, cheddar e oregano
+
+
+
+DOCES
+
+CHOCOLATE E MORANGO
+PAÇOCA E LEITE CONDENSADO
+CHOCOLATE PRETO
+CHOCOLATE BRANCO
+CHOCOLATE PRETO E MM's
+CHOCOLATE PRETO E BRANCO
+CHOCOLATE E BIS
+
+
+
+

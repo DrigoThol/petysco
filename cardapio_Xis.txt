@@ -1,0 +1,28 @@
+XIS 
+
+X SALADA
+Bife de carne, ovo, presunto, queijo, milho, ervilha, tomate, alface, maionese, mostarda e ketchup.
+R$ 16,00
+
+X FRANGO
+Frango, ovo, presunto, queijo, milho, ervilha, tomate, alface, maionese, mostarda e ketchup.
+R$17,00
+
+X CORAÇÃO
+Coração, ovo, presunto, queijo, milho, ervilha, tomate, alface, maionese, mostarda e ketchup.
+R$25,00
+
+
+X CALABRESA
+Calabresa, ovo, presunto, queijo, milho, ervilha, tomate, alface, maionese, mostarda e ketchup.
+R$20,00
+
+
+X BACON
+Bacon, bife de carne, ovo, presunto, queijo, milho, ervilha, tomate, alface, maionese, mostarda e ketchup.
+R$ 25,00
+
+X MODA DA CASA
+Bife de carne, frango, calabresa, coração, carne, bacon, ovo, presunto, queijo, milho, ervilha, tomate, alface, maionese, mostarda e ketchup.
+R$25,00
+

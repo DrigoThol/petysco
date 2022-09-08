@@ -1,0 +1,19 @@
+Torre de Batata
+
+MISTA
+Calabresa, Frango, Carne, Coração, Bacon, Queijo e Molho de Queijo   Inteira: 80,00 meia:55,00
+
+CALABRESA
+Calabresa, queijo e molho de queijo.  Inteira: 80,00 meia:55,00
+
+CORAÇÂO
+Coração, queijo e molho de queijo. Inteira: 110,00 meia:65,00
+
+FRANGO
+Frango, queijo e molho de queijo. Inteira: 80,00 meia:55,00
+
+STROGONOFF DE CARNE
+Strogonoff, queijo e molho de queijo. Inteira: 85,00 meia:60,00
+
+BACON
+Bacon, queijo e molho de queijo  Inteira: 85,00 meia:60,00
